@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\ProjectC\u002B\u002B\\Pract6_Bodroff\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1989A9CF-5E4F-4616-BB7A-7E8A9983088D}|Pract6_Bodroff\\Pract6_Bodroff.vcxproj|C:\\Users\\User\\ProjectC\u002B\u002B\\Pract6_Bodroff\\Pract6_Bodroff\\Pract6_Bodroff.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1989A9CF-5E4F-4616-BB7A-7E8A9983088D}|Pract6_Bodroff\\Pract6_Bodroff.vcxproj|solutionrelative:Pract6_Bodroff\\Pract6_Bodroff.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pract6_Bodroff.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\ProjectC\u002B\u002B\\Pract6_Bodroff\\Pract6_Bodroff\\Pract6_Bodroff.cpp",
+              "RelativeDocumentMoniker": "Pract6_Bodroff\\Pract6_Bodroff.cpp",
+              "ToolTip": "C:\\Users\\User\\ProjectC\u002B\u002B\\Pract6_Bodroff\\Pract6_Bodroff\\Pract6_Bodroff.cpp*",
+              "RelativeToolTip": "Pract6_Bodroff\\Pract6_Bodroff.cpp*",
+              "ViewState": "AgIAACkCAAAAAAAAAAAAADECAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-25T03:41:39.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
